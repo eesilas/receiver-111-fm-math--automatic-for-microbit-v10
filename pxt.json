@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "IoT_Cloud_Kit": "github:dfrobot/pxt-dfrobot_iot_cloud_kit#v0.8.3"
     },
     "files": [
         "main.blocks",
